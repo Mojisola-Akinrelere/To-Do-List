@@ -4,7 +4,9 @@ A to-do list is a tool used to manage tasks and organize one's activities. It is
 ## Monthly Project For December
 ### Question
 Build a Simple To-Do List Application
-Objective: Create a basic To-Do List application using HTML, CSS, and vanilla JavaScript.The application should allow users to add tasks and remove them.
+
+### Objective 
+Create a basic To-Do List application using HTML, CSS, and vanilla JavaScript.The application should allow users to add tasks and remove them.
 
 ### Specifications
 1. The application should have an input field for users to add new tasks.
