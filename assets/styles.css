@@ -110,3 +110,8 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+.completedtask{
+    margin-top: 10px;
+    padding: 10px;
+}
